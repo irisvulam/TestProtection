@@ -19,7 +19,7 @@
   "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme",
   "dependencies": {
     "mssql": "^6.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "tedious": "^8.2.0",
     "fs": "^0.0.1-security"
   }
